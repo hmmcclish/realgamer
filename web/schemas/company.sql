@@ -1,0 +1,4 @@
+CREATE TABLE company (
+	id UNSIGNED INT(8),
+	name VARCHAR(128)
+);
