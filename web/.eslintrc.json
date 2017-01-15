@@ -2,6 +2,7 @@
 	"extends": "airbnb",
 	"rules": {
         "indent": ["error", 4, {"SwitchCase": 1}],
+        "prefer-template": "off",
         "object-curly-spacing": ["error", "never"],
 
         "import/prefer-default-export": "off",

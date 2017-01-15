@@ -1,1 +1,1 @@
-export const create = data => data;
+export const createGame = data => data;
