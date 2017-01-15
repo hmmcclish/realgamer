@@ -1,3 +1,13 @@
 {
-	"extends": "airbnb"
+	"extends": "airbnb",
+	"rules": {
+        "indent": ["error", 4, {"SwitchCase": 1}],
+        "object-curly-spacing": ["error", "never"],
+
+        "import/prefer-default-export": "off",
+
+        "react/jsx-filename-extension": "off",
+        "react/jsx-indent": ["error", 4],
+        "react/prefer-stateless-function": "off"
+	}
 }
