@@ -1,0 +1,25 @@
+version: '2'
+
+services:
+    mysql:
+        image: "mysql:5.5"
+        container_name: mysql
+        environment:
+            - "MYSQL_ROOT_PASSWORD=1234"
+
+    node_builder:
+        image: "node:6.9.4"
+        container_name: node_builder
+        command: "sleep infinity"
+        volumes:
+            - ".:/source"
+    api:
+        image: "node:6.9.4"
+        container_name: api
+        depends_on: [mysql]
+        working_dir: "/app"
+        command: "npm start"
+        ports:
+            - 8080:3003
+        volumes:
+            - "./api:/app"
