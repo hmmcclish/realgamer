@@ -1,0 +1,24 @@
+{
+  "name": "realgamer",
+  "version": "1.0.0",
+  "description": "## Getting started",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "api-server": "forever start -a -l /tmp/realgamer-api.log api/src/index.js",
+    "stop-api-server": "forever stop api/src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pladaria/realgamer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pladaria/realgamer/issues"
+  },
+  "homepage": "https://github.com/pladaria/realgamer#readme",
+  "dependencies": {
+    "forever": "^0.15.3"
+  }
+}
