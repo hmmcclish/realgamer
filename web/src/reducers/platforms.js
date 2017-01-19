@@ -1,8 +1,11 @@
-export default (state = {}, action) => {
-    switch (action.type) {
+
+export default (state = [], {type, payload}) => {
+    switch (type) {
         case 'RECEIVE_PLATFORMS':
-            return action.payload;
+            return [...payload.platforms];
         default:
             return state;
     }
 };
+
+export const getPlatforms = (state = {}) => state.platforms;

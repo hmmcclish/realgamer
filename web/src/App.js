@@ -1,9 +1,10 @@
-import React, {Component} from 'react';
+import React, {Component, PropTypes as t} from 'react';
 import {connect} from 'react-redux';
 
 import logo from './logo.svg';
 import './App.css';
 import {fetchAllPlatforms} from './actions/platforms';
+import {getPlatforms} from './reducers';
 
 class App extends Component {
 
@@ -13,7 +14,10 @@ class App extends Component {
     }
 
     componentWillMount() {
-        fetchAllPlatforms();
+        console.log('adad');
+        console.log(this.props);
+        console.log(getPlatforms());
+        this.props.fetchAllPlatforms();
         this.setState({a: 1232});
     }
 
@@ -24,12 +28,23 @@ class App extends Component {
                     <img src={logo} className="App-logo" alt="logo" />
                     <h2>Welcome to React</h2>
                 </div>
-                <p className="App-intro">
-                    {this.state.a}
-                </p>
+                <ul>
+                    {this.props.platforms.map(platform =>
+                        <li key={platform.id}>{platform.manufacturer} {platform.name}</li>)}
+                </ul>
             </div>
         );
     }
 }
 
-export default connect()(App);
+App.propTypes = {
+    platforms: t.array,
+    fetchAllPlatforms: t.func,
+};
+
+export default connect(
+    state => ({
+        platforms: getPlatforms(state),
+    }),
+    {fetchAllPlatforms},
+)(App);

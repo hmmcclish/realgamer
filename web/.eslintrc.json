@@ -1,6 +1,6 @@
 {
-	"extends": "airbnb",
-	"rules": {
+    "extends": "airbnb",
+    "rules": {
         "indent": ["error", 4, {"SwitchCase": 1}],
         "prefer-template": "off",
         "object-curly-spacing": ["error", "never"],
@@ -9,6 +9,8 @@
 
         "react/jsx-filename-extension": "off",
         "react/jsx-indent": ["error", 4],
-        "react/prefer-stateless-function": "off"
-	}
+        "react/prefer-stateless-function": "off",
+        "react/require-default-props": "off",
+        "react/forbid-prop-types": "off"
+    }
 }
