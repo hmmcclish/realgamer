@@ -25,8 +25,8 @@ server.route({
     path: '/platforms',
     handler: (request, reply) => {
         const result = fs.readFileSync('../data/platforms.csv').toString().trim().split('\n').slice(1).map((line, id) => {
-            const [manufacturer, name, year, generation] = line.split('\t');
-            return {id, manufacturer, name, year: +year, generation: +generation};
+            const [manufacturer, name, year, generation, image, isHandheld] = line.split('\t');
+            return {id, manufacturer, name, year: +year, generation: +generation, image, isHandheld: !!+isHandheld};
         });
         reply(result);
     },

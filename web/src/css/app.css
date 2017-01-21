@@ -1,0 +1,24 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    background: #eee;
+}
+tr, td, th {
+    vertical-align: middle;
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #ddd;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb:window-inactive {
+    background: #999;
+}
+::-webkit-scrollbar-thumb {
+    background: #999;
+}

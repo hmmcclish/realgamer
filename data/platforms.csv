@@ -1,22 +1,39 @@
-Manufacturer	Name	date	generation
-NEC	PC Engine	1987	4
-Sega	Mega Drive	1988	4
-Nintendo	Super NES	1990	4
-Philips	CD-i	1991	4
-SNK	Neo Geo	1990	4
-Nintendo	Game Boy	1989	4
-Atari	Atari Lynx	1989	4
-Sega	Game Gear	1990	4
-NEC	TurboExpress	1990	4
-Panasonic	3DO Interactive Multiplayer	1993	5
-Atari	Atari Jaguar	1993	5
-Sega	Sega Saturn	1994	5
-Sony	PlayStation	1994	5
-Nintendo	Nintendo 64	1996	5
-Sega	Genesis Nomad	1995	5
-Nintendo	Virtual Boy	1995	5
-Nintendo	Game Boy Color	1998	5
-SNK	Neo Geo Pocket	1998	5
-Sony	Pocketstation	1999	5
-Bandai	WonderSwan	1999	5
-Bandai	WonderSwan Color	2000	5
+Manufacturer	Name	date	generation	image	handheld
+Nintendo	NES	1983	3	https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NES-Console-Set.jpg/800px-NES-Console-Set.jpg	0
+Sega	SG-1000	1983	3	https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sega-SG-1000-Console-Set.jpg/800px-Sega-SG-1000-Console-Set.jpg	0
+Sega	Master System	1985	3	https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sega-Master-System-Set.jpg/800px-Sega-Master-System-Set.jpg	0
+Atari	Atari 7800	1986	3	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Atari-7800-Console-Set.jpg/800px-Atari-7800-Console-Set.jpg	0
+NEC	TurboGrafx 16	1987	4	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/TurboGrafx16-Console-Set.jpg/800px-TurboGrafx16-Console-Set.jpg	0
+Sega	Mega Drive	1988	4	https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sega-Mega-Drive-JP-Mk1-Console-Set.jpg/800px-Sega-Mega-Drive-JP-Mk1-Console-Set.jpg	0
+Atari	Atari Lynx	1989	4	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Atari-Lynx-I-Handheld.jpg/800px-Atari-Lynx-I-Handheld.jpg	1
+Nintendo	Game Boy	1989	4	https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Game-Boy-FL.jpg/494px-Game-Boy-FL.jpg	1
+Sega	Game Gear	1990	4	https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Game-Gear-Handheld.jpg/800px-Game-Gear-Handheld.jpg	1
+SNK	Neo Geo	1990	4	https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Neo-Geo-AES-Console-Set.jpg/800px-Neo-Geo-AES-Console-Set.jpg	0
+Nintendo	Super NES	1990	4	https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Nintendo-Super-Famicom-Set-FL.jpg/800px-Nintendo-Super-Famicom-Set-FL.jpg	0
+NEC	TurboExpress	1990	4	https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TurboExpress-Front.jpg/374px-TurboExpress-Front.jpg	0
+Philips	CD-i	1991	4	https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Philips-CDi-220-wController-FL.jpg/800px-Philips-CDi-220-wController-FL.jpg	0
+Sega	Sega CD	1992	4	https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sega-CD-Model2-Set.jpg/800px-Sega-CD-Model2-Set.jpg	0
+SNK	Neo Geo CD	1994	4	https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Neo-Geo-CD-TopLoader-wController-FL.jpg/800px-Neo-Geo-CD-TopLoader-wController-FL.jpg	0
+Sega	Sega 32X	1994	4	https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sega-Genesis-Model2-32X.jpg/754px-Sega-Genesis-Model2-32X.jpg	0
+Panasonic	3DO Interactive Multiplayer	1993	5	https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/3DO-FZ1-Console-Set.jpg/800px-3DO-FZ1-Console-Set.jpg	0
+Atari	Atari Jaguar	1993	5	https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Atari-Jaguar-CD-wPro-Controller.jpg/800px-Atari-Jaguar-CD-wPro-Controller.jpg	0
+Sony	PlayStation	1994	5	https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PSX-Console-wController.jpg/800px-PSX-Console-wController.jpg	0
+Sega	Sega Saturn	1994	5	https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sega-Saturn-Console-Set-Mk1.jpg/800px-Sega-Saturn-Console-Set-Mk1.jpg	0
+Sega	Genesis Nomad	1995	5	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sega-Nomad-Front.jpg/800px-Sega-Nomad-Front.jpg	1
+Nintendo	Virtual Boy	1995	5	https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Virtual-Boy-Set.jpg/472px-Virtual-Boy-Set.jpg	0
+Nintendo	Nintendo 64	1996	5	https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/N64-Console-Set.jpg/800px-N64-Console-Set.jpg	0
+Nintendo	Game Boy Color	1998	5	https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nintendo-Game-Boy-Color-FL.jpg/441px-Nintendo-Game-Boy-Color-FL.jpg	1
+SNK	Neo Geo Pocket	1998	5	https://upload.wikimedia.org/wikipedia/commons/b/be/Neo-Geo-Pocket-Anthra-Left.jpg	1
+Sony	Pocketstation	1999	5	https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Sony-PocketStation.jpg/405px-Sony-PocketStation.jpg	1
+Bandai	WonderSwan	1999	5	https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/WonderSwan-Black-Left.jpg/800px-WonderSwan-Black-Left.jpg	1
+Bandai	WonderSwan Color	2000	5	https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/WonderSwan-Color-Blue-Left.jpg/800px-WonderSwan-Color-Blue-Left.jpg	1
+Sega	Dreamcast	1998	6	https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dreamcast-Console-Set.jpg/800px-Dreamcast-Console-Set.jpg	0
+Sony	PlayStation 2	2000	6	https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PS2-Versions.jpg/677px-PS2-Versions.jpg	0
+Nintendo	GameCube	2001	6	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/GameCube-Set.jpg/800px-GameCube-Set.jpg	0
+Microsoft	Xbox	2001	6	https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Xbox-console.jpg/800px-Xbox-console.jpg	0
+Microsoft	Xbox 360	2005	7	https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Xbox-360-Pro-wController.jpg/401px-Xbox-360-Pro-wController.jpg	0
+Sony	PlayStation 3	2006	7	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/PS3Versions.png/657px-PS3Versions.png	0
+Nintendo	Wii	2006	7	https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wii-console.jpg/600px-Wii-console.jpg	0
+Nintendo	Wii U	2012	8	https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Wii_U_Console_and_Gamepad.png/800px-Wii_U_Console_and_Gamepad.png	0
+Sony	PlayStation 4	2013	8	https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PS4-Console-wDS4.jpg/800px-PS4-Console-wDS4.jpg	0
+Microsoft	Xbox One	2013	8	https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Xbox_One_Console_Set.jpg/800px-Xbox_One_Console_Set.jpg	0
