@@ -15,6 +15,7 @@ import {Router, Route, browserHistory} from 'react-router';
 import App from './App';
 import GamesList from './components/games-list';
 import rootReducer from './reducers/index';
+import {fetchGames} from './actions/games';
 import './css/box-sizing.css';
 import './css/reset.css';
 import './css/app.css';
@@ -31,7 +32,13 @@ ReactDOM.render(
         <MuiThemeProvider muiTheme={getMuiTheme(lightBaseTheme)}>
             <Router history={browserHistory}>
                 <Route path="/" component={App}>
-                    <Route path="platform/:id/games" component={GamesList} />
+                    <Route
+                        path="platform/:id/games"
+                        component={GamesList}
+                        onEnter={({params}) => {
+                            store.dispatch(fetchGames(params.id));
+                        }}
+                    />
                 </Route>
             </Router>
         </MuiThemeProvider>

@@ -16,4 +16,4 @@ export default (state = INITIAL_STATE, {type, payload}) => {
     }
 };
 
-export const getGames = (state, platformId) => state.games[platformId] || [];
+export const getGames = (state, platformId) => Object.values(state.games[platformId] || {});

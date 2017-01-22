@@ -6,6 +6,8 @@
         "object-curly-spacing": ["error", "never"],
         "max-len": "off",
         "no-shadow": "off",
+        "no-case-declarations": "off",
+        "arrow-parens": "off",
 
         "import/prefer-default-export": "off",
 

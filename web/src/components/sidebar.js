@@ -58,10 +58,6 @@ class Sidebar extends React.Component {
                                     <TreeList.Item
                                         key={id}
                                         title={<Link to={`/platform/${id}/games`}>{name}</Link>}
-                                        onPress={() => {
-                                            //this.context.route.push(`/platform/${id}/games`);
-                                            console.log(this.context);
-                                        }}
                                     />
                                 ))}
                             </TreeList.Item>
