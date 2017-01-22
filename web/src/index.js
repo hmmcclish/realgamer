@@ -10,9 +10,11 @@ import lightBaseTheme from 'material-ui/styles/baseThemes/lightBaseTheme';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import getMuiTheme from 'material-ui/styles/getMuiTheme';
 import injectTapEventPlugin from 'react-tap-event-plugin';
+import {Router, Route, browserHistory} from 'react-router';
 
-import rootReducer from './reducers/index';
 import App from './App';
+import GamesList from './components/games-list';
+import rootReducer from './reducers/index';
 import './css/box-sizing.css';
 import './css/reset.css';
 import './css/app.css';
@@ -27,7 +29,11 @@ const store = createStore(rootReducer, {}, applyMiddleware(thunk, logger));
 ReactDOM.render(
     <Provider store={store}>
         <MuiThemeProvider muiTheme={getMuiTheme(lightBaseTheme)}>
-            <App />
+            <Router history={browserHistory}>
+                <Route path="/" component={App}>
+                    <Route path="platform/:id/games" component={GamesList} />
+                </Route>
+            </Router>
         </MuiThemeProvider>
     </Provider>,
     document.getElementById('root'),

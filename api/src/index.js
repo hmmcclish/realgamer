@@ -3,7 +3,7 @@ const fs = require('fs');
 
 const server = new Hapi.Server();
 
-server.connection({port: 3003, host: 'localhost', routes: {cors: {origin: ['*']}}});
+server.connection({port: 3003, host: '0.0.0.0', routes: {cors: {origin: ['*']}}});
 
 server.start((err) => {
     if (err) {
@@ -34,11 +34,11 @@ server.route({
 
 server.route({
     method: 'GET',
-    path: '/games',
+    path: '/platforms/{id}/games',
     handler: (request, reply) => {
         const result = fs.readFileSync('../data/games-sega-saturn.csv').toString().trim().split('\n').slice(1).map((line, id) => {
             const [title, developer, publisher, yearNa, yearPal, yearJap] = line.split('\t');
-            return {id, title, developer, publisher, year: +yearNa || +yearPal || +yearJap || 0};
+            return {id, title, platformId: request.params.id, developer, publisher, year: +yearNa || +yearPal || +yearJap || 0};
         });
         reply(result);
     },

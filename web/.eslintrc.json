@@ -15,6 +15,7 @@
         "react/prefer-stateless-function": "off",
         "react/require-default-props": "off",
         "react/forbid-prop-types": "off",
+        "react/prop-types": "off",
 
         "jsx-a11y/no-static-element-interactions": "off"
     }
