@@ -3,50 +3,38 @@ import {connect} from 'react-redux';
 
 import {fetchAllPlatforms} from './actions/platforms';
 import {getPlatforms} from './reducers';
+import TreeList from './components/tree-list';
 
-const {keys} = Object;
+const {values} = Object;
 
 class App extends Component {
 
     constructor() {
         super();
         this.state = {
-            category: -1,
-            developer: -1,
-            platform: -1,
+            console: true,
+            handheld: true,
         };
-        this.selectCategory = this.selectCategory.bind(this);
-        this.selectDeveloper = this.selectDeveloper.bind(this);
     }
 
     componentWillMount() {
         this.props.fetchAllPlatforms();
     }
 
-    selectCategory(i) {
-        this.setState({
-            category: this.state.category === i ? -1 : i,
-            developer: -1,
-            platforms: -1,
-        });
-    }
-
-    selectDeveloper(j) {
-        this.setState({
-            developer: this.state.developer === j ? -1 : j,
-            platforms: -1,
-        });
-    }
-    //http://mandarinconlabarba.github.io/react-tree-menu/example/index.html
     render() {
+        const createItem = (id, name, items) => ({id, name, items});
         const categories = {
-            Consoles: {},
-            Handhelds: {},
+            c: createItem('console', 'Consoles', {}),
+            h: createItem('handheld', 'Handhelds', {}),
         };
-        this.props.platforms.forEach((p) => {
-            const category = categories[p.isHandheld ? 'Handhelds' : 'Consoles'];
-            category[p.developer] = category[p.developer] || [];
-            category[p.developer].push(p.name);
+
+        // build platforms tree
+        this.props.platforms.forEach(({id, isHandheld, developer, name}) => {
+            const type = isHandheld ? 'h' : 'c';
+            const cat = categories[type];
+            const develId = `${type}-${developer}`;
+            cat.items[developer] = cat.items[developer] || createItem(develId, developer, {});
+            cat.items[developer].items[name] = createItem(id, name, {});
         });
 
         return (
@@ -56,30 +44,38 @@ class App extends Component {
                     RealGamer
                 </header>
 
-                <div style={{padding: 16, background: '#fff', width: 300, overflow: 'hidden'}}>
-                    <ul style={{marginLeft: 16}}>
-                        {keys(categories).map((cat, i) => [
-                            <li key={cat} onClick={() => this.selectCategory(i)}>{cat}</li>,
-                            (this.state.category === i) && (
-                                <ul style={{marginLeft: 16}}>
-                                    {keys(categories[cat]).map((dev, j) => [
-                                        <li ket={dev} onClick={() => this.selectDeveloper(j)}>{dev}</li>,
-                                        (this.state.developer === j) && (
-                                            <ul style={{marginLeft: 16}}>
-                                                {categories[cat][dev].map(n => <li key={n}>{n}</li>)}
-                                            </ul>
-                                        ),
-                                    ])}
-                                </ul>
-                            ),
-                        ])}
-                    </ul>
-                </div>
+                <TreeList style={{float: 'left', width: 350, background: '#fff', padding: 16}}>
+                    {values(categories).map(({id, name, items}) => (
+                        <TreeList.Item
+                            key={id}
+                            title={name}
+                            isOpen={!!this.state[id]}
+                            onPress={() => this.setState({[id]: !this.state[id]})}
+                        >
+                            {values(items).map(({id, name, items}) => (
+                                <TreeList.Item
+                                    key={id}
+                                    title={name}
+                                    isOpen={!!this.state[id]}
+                                    onPress={() => this.setState({[id]: !this.state[id]})}
+                                >
+                                    {values(items).map(({name, id}) => (
+                                        <TreeList.Item
+                                            key={id}
+                                            title={name}
+                                        />
+                                    ))}
+                                </TreeList.Item>
+                            ))}
+                        </TreeList.Item>
+                    ))}
+                </TreeList>
 
             </div>
         );
     }
 }
+
 App.propTypes = {
     platforms: t.array,
     fetchAllPlatforms: t.func,
