@@ -1,5 +1,5 @@
 const INITIAL_STATE = {
-    // [platformId]: Game[]
+    // [platformId]: {gameId: gameModel, ...}
 };
 
 export default (state = INITIAL_STATE, {type, payload}) => {
