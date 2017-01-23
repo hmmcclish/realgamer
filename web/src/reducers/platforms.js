@@ -13,5 +13,5 @@ export default (state = INITIAL_STATE, {type, payload}) => {
     }
 };
 
-export const getPlatforms = state => Object.values(state.platforms);
-export const getPlatform = (state, id) => state.platforms[id] || {};
+export const getPlatforms = state => Object.values(state);
+export const getPlatform = (state, id) => state[id] || {};

@@ -8,7 +8,7 @@ export default combineReducers({
     games,
 });
 
-export const getPlatforms = state => fromPlatforms.getPlatforms(state);
-export const getPlatform = (state, id) => fromPlatforms.getPlatform(state, id);
+export const getPlatforms = state => fromPlatforms.getPlatforms(state.platforms);
+export const getPlatform = (state, id) => fromPlatforms.getPlatform(state.platforms, id);
 
-export const getGames = (state, platformId) => fromGames.getGames(state, platformId);
+export const getGames = (state, platformId) => fromGames.getGames(state.games, platformId);
