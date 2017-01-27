@@ -1,4 +1,0 @@
-CREATE TABLE genres (
-	id UNSIGNED INT(8),
-	name VARCHAR(64)
-);

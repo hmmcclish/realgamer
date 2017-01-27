@@ -1,0 +1,22 @@
+{
+    "platform": {
+        "properties": {
+            "title": {
+                "properties" {
+                    "name": {"type": "string"},
+                    "region": {"type": "string"},
+                }
+            },
+            "generation": {"type": "integer"},
+            "imageUrl": {"type": "string"},
+            "releaseDate": {
+                "properties": {
+                    "date": {"type": "date"},
+                    "region": {"type": "string"},
+                    "comment": {"type": "string"},
+                }
+            },
+            "developer": {"type": "string"},
+        }
+    }
+}

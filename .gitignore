@@ -51,3 +51,4 @@ build
 .env
 npm-debug.log
 .~*
+bin

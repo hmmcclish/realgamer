@@ -1,0 +1,37 @@
+{
+    "game": {
+        "properties": {
+            "title": {
+                "properties": {
+                    "name": {"type": "string"},
+                    "region": {"type": "string"},
+                    "comment": {"type": "string"}
+                }
+            },
+            "genre": {"type": "string"},
+            "upc": {"type": "string"},
+            "platform": {"type": "string"},
+            "releaseDate": {
+                "properties": {
+                    "date": {"type": "date"},
+                    "region": {"type": "string"},
+                    "comment": {"type": "string"},
+                }
+            },
+            "publisher": {
+                "properties": {
+                    "name": {"type": "string"},
+                    "region": {"type": "string"},
+                    "comment": {"type": "string"},
+                }
+            },
+            "developer": {
+                "properties": {
+                    "name": {"type": "string"},
+                    "region": {"type": "string"},
+                    "comment": {"type": "string"},
+                }
+            }
+        }
+    }
+}
