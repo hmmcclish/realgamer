@@ -101,7 +101,6 @@ const parseSegaSaturnGame = (line) => {
 const parseSonyPlayStationGame = (line) => {
     const [title, developer = '', publisher = '', JP = '', EU = '', NA = ''] = line.split(CSV_SEPARATOR);
     const dates = `${NA ? `${NA} (NA)` : ''}|${EU ? `${EU} (EU)` : ''}|${JP ? `${JP} (JP)` : ''}`;
-    console.log(dates);
     return {
         title: parseStringWithRegion(title),
         releaseDate: parseDateWithRegion(dates),
