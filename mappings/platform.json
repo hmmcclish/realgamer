@@ -6,9 +6,11 @@
                     "name": {"type": "string"},
                     "region": {"type": "string"}
                 }
-            },
+            },            
+            "developer": {"type": "string"},
             "generation": {"type": "integer"},
-            "imageUrl": {"type": "string"},
+            "handheld": {"type": "boolean"},
+            "imageUrl": {"type": "string"},            
             "releaseDate": {
                 "properties": {
                     "date": {"type": "date"},
@@ -16,7 +18,7 @@
                     "comment": {"type": "string"}
                 }
             },
-            "developer": {"type": "string"}
+            "wikipediaUrl": {"type": "string"}
         }
     }
 }

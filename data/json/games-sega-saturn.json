@@ -15,8 +15,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -53,8 +53,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -81,16 +81,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
         "region": "PAL",
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -121,12 +121,12 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -161,8 +161,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -192,8 +192,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -215,16 +215,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -250,8 +250,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
         "region": "JP",
@@ -277,16 +277,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
         "region": "PAL",
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -316,8 +316,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -347,8 +347,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -382,8 +382,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -413,8 +413,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -444,8 +444,8 @@
         "unreleased": true
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -475,8 +475,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -506,8 +506,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -537,8 +537,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -568,8 +568,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -591,16 +591,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
         "region": "PAL",
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -630,8 +630,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -653,16 +653,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -684,8 +684,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
         "region": "PAL",
@@ -715,16 +715,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -754,8 +754,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -785,8 +785,8 @@
         "unreleased": true
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -808,16 +808,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -839,12 +839,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
         "region": "JP",
@@ -878,8 +878,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -909,8 +909,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -940,8 +940,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -971,8 +971,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1002,8 +1002,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1033,8 +1033,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1064,8 +1064,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1095,8 +1095,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1145,8 +1145,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1177,8 +1177,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1208,8 +1208,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1239,8 +1239,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1270,8 +1270,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1301,8 +1301,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1324,8 +1324,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
         "region": "PAL",
@@ -1363,8 +1363,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1386,16 +1386,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1428,8 +1428,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1462,8 +1462,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1493,8 +1493,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1516,16 +1516,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       },
       {
         "region": "PAL",
         "unreleased": true
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1555,8 +1555,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1586,8 +1586,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1617,8 +1617,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1648,8 +1648,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1998-01-01T00:00:00.000Z"
       },
       {
         "region": "JP",
@@ -1683,8 +1683,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1717,8 +1717,8 @@
         "unreleased": true
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1740,16 +1740,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1779,8 +1779,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1810,8 +1810,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1833,16 +1833,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       },
       {
         "region": "PAL",
         "unreleased": true
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1864,16 +1864,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1903,8 +1903,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1926,16 +1926,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1957,16 +1957,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -1996,8 +1996,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2019,16 +2019,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2050,12 +2050,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
         "region": "JP",
@@ -2081,8 +2081,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
         "region": "PAL",
@@ -2120,8 +2120,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2151,8 +2151,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2177,16 +2177,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2208,16 +2208,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2247,8 +2247,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2270,16 +2270,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2304,12 +2304,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
         "region": "JP",
@@ -2343,8 +2343,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2366,12 +2366,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
         "region": "JP",
@@ -2397,16 +2397,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2436,8 +2436,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2462,8 +2462,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
         "region": "PAL",
@@ -2501,8 +2501,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2520,16 +2520,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
         "region": "PAL",
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2551,16 +2551,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2590,8 +2590,8 @@
         "unreleased": true
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2613,12 +2613,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
         "region": "JP",
@@ -2644,8 +2644,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2667,16 +2667,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1995-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2698,16 +2698,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2737,8 +2737,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2760,16 +2760,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1998-01-01T00:00:00.000Z"
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1998-01-01T00:00:00.000Z"
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2791,16 +2791,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2822,16 +2822,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2853,8 +2853,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2876,8 +2876,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2899,8 +2899,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2922,8 +2922,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2953,8 +2953,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -2976,16 +2976,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3007,8 +3007,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3030,12 +3030,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3057,8 +3057,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3080,8 +3080,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3103,16 +3103,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3134,16 +3134,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1995-01-01T00:00:00.000Z"
       },
       {
-        "date": "1994-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1994-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3165,16 +3165,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1995-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3196,8 +3196,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3219,8 +3219,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3242,8 +3242,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3265,8 +3265,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3288,8 +3288,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3311,8 +3311,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3334,8 +3334,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3357,8 +3357,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3380,8 +3380,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3403,8 +3403,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3426,8 +3426,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3449,8 +3449,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3472,8 +3472,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3496,8 +3496,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3519,8 +3519,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3542,8 +3542,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3565,8 +3565,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3588,8 +3588,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3611,8 +3611,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3634,8 +3634,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3657,8 +3657,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3680,8 +3680,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3703,8 +3703,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3726,8 +3726,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3752,12 +3752,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3784,8 +3784,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3807,8 +3807,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3830,8 +3830,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3853,8 +3853,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3876,8 +3876,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3899,8 +3899,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3922,8 +3922,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3949,12 +3949,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3976,8 +3976,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -3999,8 +3999,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4025,8 +4025,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4052,8 +4052,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4075,8 +4075,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4098,8 +4098,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4121,8 +4121,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1999-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1999-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4144,8 +4144,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4167,12 +4167,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4194,8 +4194,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4217,8 +4217,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4240,8 +4240,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4267,8 +4267,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4290,8 +4290,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4313,8 +4313,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4346,12 +4346,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4373,8 +4373,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4396,8 +4396,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4433,12 +4433,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4464,8 +4464,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4487,8 +4487,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4510,8 +4510,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4533,8 +4533,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4556,8 +4556,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4579,8 +4579,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4602,8 +4602,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4625,8 +4625,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4648,8 +4648,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4679,12 +4679,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4706,8 +4706,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4729,8 +4729,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4752,8 +4752,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [],
@@ -4767,8 +4767,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4790,8 +4790,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1999-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1999-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4813,8 +4813,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4836,8 +4836,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4859,8 +4859,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4882,8 +4882,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4905,8 +4905,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4928,8 +4928,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4951,8 +4951,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -4974,8 +4974,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5000,8 +5000,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1999-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1999-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5026,8 +5026,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5049,8 +5049,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5072,8 +5072,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5095,8 +5095,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5118,8 +5118,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5141,8 +5141,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5164,8 +5164,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5187,8 +5187,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5210,8 +5210,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5233,8 +5233,8 @@
     ],
     "releaseDate": [
       {
-        "date": "2000-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "2000-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5256,8 +5256,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5279,8 +5279,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5302,8 +5302,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5325,8 +5325,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5348,8 +5348,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5371,8 +5371,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5402,8 +5402,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5425,16 +5425,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1995-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5474,8 +5474,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5497,8 +5497,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5520,8 +5520,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5543,8 +5543,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5566,8 +5566,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5589,8 +5589,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5612,8 +5612,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5645,8 +5645,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5668,8 +5668,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5695,12 +5695,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5722,8 +5722,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5745,8 +5745,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5768,8 +5768,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5791,8 +5791,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5814,8 +5814,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5840,8 +5840,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5863,8 +5863,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5894,8 +5894,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5917,8 +5917,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5940,8 +5940,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -5963,16 +5963,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6002,8 +6002,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6030,16 +6030,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6061,12 +6061,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6088,8 +6088,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6111,8 +6111,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6134,8 +6134,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6157,8 +6157,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6180,8 +6180,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6203,8 +6203,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6234,8 +6234,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6277,8 +6277,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6300,8 +6300,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6323,8 +6323,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6346,8 +6346,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6369,8 +6369,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6392,8 +6392,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6415,8 +6415,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6442,12 +6442,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6469,8 +6469,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6496,8 +6496,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [],
@@ -6533,8 +6533,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6556,8 +6556,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6579,8 +6579,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6602,8 +6602,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6625,8 +6625,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6656,8 +6656,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6683,12 +6683,12 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6718,8 +6718,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6749,8 +6749,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6802,8 +6802,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6886,16 +6886,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1995-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [],
@@ -6912,8 +6912,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6944,16 +6944,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -6985,8 +6985,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7008,8 +7008,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7031,8 +7031,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7054,8 +7054,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7083,8 +7083,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7122,8 +7122,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7145,8 +7145,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7178,8 +7178,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7201,8 +7201,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7234,8 +7234,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7257,8 +7257,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7280,8 +7280,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7303,8 +7303,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7336,8 +7336,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7369,8 +7369,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7392,8 +7392,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7415,8 +7415,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7442,12 +7442,12 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7474,16 +7474,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
         "region": "PAL",
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7505,8 +7505,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7548,16 +7548,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       },
       {
         "region": "PAL",
         "unreleased": true
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7579,8 +7579,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7672,16 +7672,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7703,12 +7703,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7730,8 +7730,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7761,8 +7761,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7784,8 +7784,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7827,8 +7827,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7850,8 +7850,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7873,8 +7873,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7896,8 +7896,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7919,8 +7919,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7942,8 +7942,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7965,8 +7965,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -7988,8 +7988,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8021,8 +8021,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8044,8 +8044,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8067,8 +8067,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8090,8 +8090,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8113,8 +8113,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8136,8 +8136,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8159,8 +8159,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8182,8 +8182,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8205,8 +8205,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8228,8 +8228,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8251,8 +8251,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8284,8 +8284,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8307,8 +8307,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8330,8 +8330,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8353,12 +8353,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8380,8 +8380,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8403,8 +8403,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8426,8 +8426,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8449,8 +8449,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8472,16 +8472,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1995-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8503,8 +8503,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8580,8 +8580,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8603,8 +8603,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8656,8 +8656,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8719,8 +8719,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8752,8 +8752,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8775,8 +8775,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8798,8 +8798,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8821,8 +8821,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8880,8 +8880,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8903,8 +8903,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8930,8 +8930,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8963,8 +8963,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -8986,8 +8986,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9009,8 +9009,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9037,8 +9037,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9060,8 +9060,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9083,8 +9083,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9110,8 +9110,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9133,8 +9133,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9184,8 +9184,8 @@
     ],
     "releaseDate": [
       {
-        "date": "2000-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "2000-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9207,8 +9207,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9248,8 +9248,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9271,8 +9271,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9324,8 +9324,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9383,8 +9383,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9406,8 +9406,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9439,8 +9439,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9462,12 +9462,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9489,8 +9489,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9512,8 +9512,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9535,8 +9535,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9568,8 +9568,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9591,8 +9591,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9614,8 +9614,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9657,8 +9657,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9680,8 +9680,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9703,8 +9703,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9726,8 +9726,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9749,8 +9749,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9772,8 +9772,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9795,8 +9795,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9818,8 +9818,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9871,8 +9871,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9904,8 +9904,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9927,8 +9927,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9960,8 +9960,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -9983,8 +9983,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10026,8 +10026,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10068,16 +10068,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10131,16 +10131,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1999-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1999-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10162,16 +10162,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10193,16 +10193,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10224,8 +10224,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10247,8 +10247,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10270,8 +10270,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10303,8 +10303,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10336,8 +10336,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10359,8 +10359,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10390,8 +10390,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10427,8 +10427,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10456,8 +10456,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10489,8 +10489,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10512,8 +10512,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10535,8 +10535,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10558,8 +10558,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10581,8 +10581,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1999-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1999-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10604,8 +10604,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10627,8 +10627,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10680,8 +10680,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10723,8 +10723,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10776,8 +10776,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10803,8 +10803,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10836,8 +10836,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10879,8 +10879,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10902,8 +10902,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10935,8 +10935,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10958,8 +10958,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -10985,8 +10985,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11018,8 +11018,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11041,8 +11041,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11064,8 +11064,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11087,8 +11087,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11110,8 +11110,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11146,16 +11146,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11195,8 +11195,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11226,8 +11226,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11257,8 +11257,8 @@
         "unreleased": true
       },
       {
-        "date": "1999-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1999-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11288,8 +11288,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11319,8 +11319,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11342,8 +11342,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11365,8 +11365,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11432,12 +11432,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11483,8 +11483,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11506,8 +11506,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11529,8 +11529,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11552,8 +11552,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11575,8 +11575,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11598,8 +11598,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11621,8 +11621,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11644,8 +11644,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11667,8 +11667,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11690,8 +11690,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11713,8 +11713,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11736,8 +11736,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11759,8 +11759,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11782,8 +11782,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11805,8 +11805,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11828,8 +11828,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11851,8 +11851,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11874,8 +11874,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11897,8 +11897,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11920,8 +11920,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11943,8 +11943,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11966,8 +11966,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -11989,8 +11989,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12030,8 +12030,8 @@
         "unreleased": true
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12053,8 +12053,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [],
@@ -12072,8 +12072,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12095,8 +12095,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12118,8 +12118,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12141,8 +12141,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12224,8 +12224,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12267,8 +12267,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12300,8 +12300,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12323,8 +12323,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12346,8 +12346,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [],
@@ -12371,8 +12371,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12394,8 +12394,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12417,12 +12417,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12537,12 +12537,12 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12569,8 +12569,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12592,8 +12592,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [],
@@ -12616,16 +12616,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12659,8 +12659,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12682,8 +12682,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12705,8 +12705,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12728,8 +12728,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12751,8 +12751,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12774,8 +12774,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12797,8 +12797,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12820,16 +12820,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1997-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12851,16 +12851,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12882,16 +12882,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12913,8 +12913,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12936,8 +12936,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12959,16 +12959,16 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "NA"
+        "region": "NA",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1996-01-01T00:00:00.000Z"
       },
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -12999,8 +12999,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13022,8 +13022,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13045,8 +13045,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13068,8 +13068,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13091,8 +13091,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13114,8 +13114,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1995-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1995-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13140,8 +13140,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13163,8 +13163,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13189,8 +13189,8 @@
     ],
     "releaseDate": [
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13223,8 +13223,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13254,8 +13254,8 @@
         "unreleased": true
       },
       {
-        "date": "1999-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1999-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13285,8 +13285,8 @@
         "unreleased": true
       },
       {
-        "date": "2000-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "2000-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13316,8 +13316,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13347,8 +13347,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13374,8 +13374,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "PAL"
+        "region": "PAL",
+        "date": "1998-01-01T00:00:00.000Z"
       },
       {
         "region": "JP",
@@ -13409,8 +13409,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13440,8 +13440,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13471,8 +13471,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13502,8 +13502,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13536,8 +13536,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13567,8 +13567,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13598,8 +13598,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13629,8 +13629,8 @@
         "unreleased": true
       },
       {
-        "date": "1997-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1997-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13660,8 +13660,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13691,8 +13691,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13722,8 +13722,8 @@
         "unreleased": true
       },
       {
-        "date": "1998-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1998-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
@@ -13753,8 +13753,8 @@
         "unreleased": true
       },
       {
-        "date": "1996-01-01T00:00:00.000Z",
-        "region": "JP"
+        "region": "JP",
+        "date": "1996-01-01T00:00:00.000Z"
       }
     ],
     "developer": [
