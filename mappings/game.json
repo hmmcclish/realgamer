@@ -15,7 +15,8 @@
                 "properties": {
                     "date": {"type": "date"},
                     "region": {"type": "string"},
-                    "comment": {"type": "string"}
+                    "comment": {"type": "string"},
+                    "unreleased": {"type": "boolean"}
                 }
             },
             "publisher": {
