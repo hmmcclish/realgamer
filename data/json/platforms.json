@@ -735,9 +735,6 @@
     "developer": [
       {
         "name": "NEC Home Electronics"
-      },
-      {
-        "name": "Hudson Soft"
       }
     ],
     "releaseDate": [
@@ -766,7 +763,10 @@
     ],
     "developer": [
       {
-        "name": "NEC"
+        "name": "NEC Home Electronics"
+      },
+      {
+        "name": "Hudson Soft"
       }
     ],
     "releaseDate": [

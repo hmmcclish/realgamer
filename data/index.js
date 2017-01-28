@@ -17,7 +17,7 @@ const CSV_SEPARATOR = /\t/;
 const SPACE = /\s+/;
 const NEW_LINE = /\s*\n+\s*/;
 const COMMENT = /\(.*?\)$/
-const REGIONS = 'EU,JP,FR,PAL,NA,US,BR'.split(',');
+const REGIONS = 'AU,EU,JP,FR,PAL,NA,US,BR'.split(',');
 
 /**
  * Parses strings like:
@@ -74,21 +74,9 @@ const parseDateWithRegion = dates => {
     });
 };
 
-const parseSegaSaturnGame = (line) => {
-    const [title, developer = '', publisher = '', NA = '', PAL = '', JP = ''] = line.split(CSV_SEPARATOR);
-    const dates = `${NA ? `${NA} (NA)` : ''}|${PAL ? `${PAL} (PAL)` : ''}|${JP ? `${JP} (JP)` : ''}`;
-    const game = {        
-        title: parseStringWithRegion(title),
-        releaseDate: parseDateWithRegion(dates),
-        developer: parseStringWithRegion(developer),
-        publisher: parseStringWithRegion(publisher),
-    };
-    return game;
-};
-
 const parsePlatform = (line) => {
     const [name, developer, releaseDate, handheld, generation, wikipediaUrl, imageUrl] = line.split(CSV_SEPARATOR);
-    const platform = {
+    return {
         title: parseStringWithRegion(name),
         developer: parseStringWithRegion(developer),
         releaseDate: parseDateWithRegion(releaseDate),
@@ -97,7 +85,29 @@ const parsePlatform = (line) => {
         wikipediaUrl,
         imageUrl,
     };
-    return platform;
+};
+
+const parseSegaSaturnGame = (line) => {
+    const [title, developer = '', publisher = '', NA = '', PAL = '', JP = ''] = line.split(CSV_SEPARATOR);
+    const dates = `${NA ? `${NA} (NA)` : ''}|${PAL ? `${PAL} (PAL)` : ''}|${JP ? `${JP} (JP)` : ''}`;
+    return {        
+        title: parseStringWithRegion(title),
+        releaseDate: parseDateWithRegion(dates),
+        developer: parseStringWithRegion(developer),
+        publisher: parseStringWithRegion(publisher),
+    };
+};
+
+const parseSonyPlayStationGame = (line) => {
+    const [title, developer = '', publisher = '', JP = '', EU = '', NA = ''] = line.split(CSV_SEPARATOR);
+    const dates = `${NA ? `${NA} (NA)` : ''}|${EU ? `${EU} (EU)` : ''}|${JP ? `${JP} (JP)` : ''}`;
+    console.log(dates);
+    return {
+        title: parseStringWithRegion(title),
+        releaseDate: parseDateWithRegion(dates),
+        developer: parseStringWithRegion(developer),
+        publisher: parseStringWithRegion(publisher),
+    }
 };
 
 const parseFile = (csvPath) => {
@@ -106,6 +116,8 @@ const parseFile = (csvPath) => {
     switch (csvFilename) {
         case 'games-sega-saturn.csv':
             return lines.map(parseSegaSaturnGame);
+        case 'games-sony-playstation.csv':
+            return lines.map(parseSonyPlayStationGame);
         case 'platforms.csv':
             return lines.map(parsePlatform);
         default: 
