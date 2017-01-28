@@ -9,6 +9,7 @@
                 }
             },
             "genre": {"type": "string"},
+            "subgenre": {"type": "string"},
             "upc": {"type": "string"},
             "platform": {"type": "string"},
             "releaseDate": {

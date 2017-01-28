@@ -19,6 +19,11 @@
   },
   "homepage": "https://github.com/pladaria/realgamer#readme",
   "dependencies": {
+    "eslint": "^3.14.1",
+    "eslint-config-airbnb": "^14.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.9.0",
     "forever": "^0.15.3"
   },
   "devDependencies": {
