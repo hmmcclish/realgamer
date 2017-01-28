@@ -15,21 +15,21 @@
                 "properties": {
                     "date": {"type": "date"},
                     "region": {"type": "string"},
-                    "comment": {"type": "string"},
+                    "comment": {"type": "string"}
                 }
             },
             "publisher": {
                 "properties": {
                     "name": {"type": "string"},
                     "region": {"type": "string"},
-                    "comment": {"type": "string"},
+                    "comment": {"type": "string"}
                 }
             },
             "developer": {
                 "properties": {
                     "name": {"type": "string"},
                     "region": {"type": "string"},
-                    "comment": {"type": "string"},
+                    "comment": {"type": "string"}
                 }
             }
         }

@@ -2,9 +2,9 @@
     "platform": {
         "properties": {
             "title": {
-                "properties" {
+                "properties": {
                     "name": {"type": "string"},
-                    "region": {"type": "string"},
+                    "region": {"type": "string"}
                 }
             },
             "generation": {"type": "integer"},
@@ -13,10 +13,10 @@
                 "properties": {
                     "date": {"type": "date"},
                     "region": {"type": "string"},
-                    "comment": {"type": "string"},
+                    "comment": {"type": "string"}
                 }
             },
-            "developer": {"type": "string"},
+            "developer": {"type": "string"}
         }
     }
 }
