@@ -8,6 +8,6 @@
 
 ## Notes
 
-* CSV files must use `tab` as separator
-* Data cleaning should be done in `ods` files unless too much manual work is required
-* Do not chante `ods` structure without changing the script
+* `csv` files must use `tab` as separator
+* Data cleaning should be done in `csv` files unless too much manual work is required
+* Do not chante `csv` structure without changing the script
