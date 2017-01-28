@@ -1,7 +1,8 @@
+/* eslint no-console: off */
 const fs = require('fs');
 const path = require('path');
 const glob = require('glob');
-const colors = require('colors');
+require('colors');
 
 const last = arr => arr[arr.length - 1];
 const upper = s => s.toUpperCase();
@@ -10,26 +11,26 @@ const skipLast = arr => arr.slice(0, -1);
 const skipFirst = arr => arr.slice(1, arr.length);
 const removeParens = s => (s.startsWith('(') && s.endsWith(')')) ? skipFirst(skipLast(s)) : s;
 const makeIsoDate = s => new Date(s).toISOString();
-const trim = s => s.trim();
+const unique = arr => [...new Set(arr)];
 
 const SEPARATOR = /\s*\|\s*/;
 const CSV_SEPARATOR = /\t/;
 const SPACE = /\s+/;
 const NEW_LINE = /\s*\n+\s*/;
-const COMMENT = /\(.*?\)$/
-const REGIONS = 'AU,EU,JP,FR,PAL,NA,US,BR'.split(',');
+const COMMENT = /\(.*?\)$/;
+const REGIONS = 'AU,EU,JP,FR,PAL,NA,US,BR,KR'.split(',');
 
 /**
  * Parses strings like:
- * 
+ *
  *     "Crystal Dynamics (NA)|BMG Entertainment (EU/JP)" -> returns 3 items
  *     "Dragon Ball Z: Idainaru Dragon Ball Densetsu (JP)|Dragon Ball Z: The Legend pal"
  *     "Die Hard Arcade|Dynamite Deka JP"
  *     "Layer Section|(RayForce Arcade)|(Galactic Attack NA/EU)" -> remove extra parens
  *     "CRI|Satakore (re-release)" -> re-release as comment
- * 
+ *
  * and returns one or more elements with the specified mapping structure
- * 
+ *
  * - Strings are splitted by '|'
  * - Multiple regions can be specified separating them with slashes ('/')
  * - Assumes that the region is located at the end of the string
@@ -37,7 +38,7 @@ const REGIONS = 'AU,EU,JP,FR,PAL,NA,US,BR'.split(',');
  */
 const parseStringWithRegion = str => flatMap(str.split(SEPARATOR), dirtyTitle => {
     const title = removeParens(dirtyTitle.trim()).trim();
-    const words = title.split(SPACE);    
+    const words = title.split(SPACE);
     if (!title.length) {
         return [];
     }
@@ -62,8 +63,9 @@ const parseStringWithRegion = str => flatMap(str.split(SEPARATOR), dirtyTitle =>
     return [result];
 });
 
-const parseDateWithRegion = dates => {
-    return parseStringWithRegion(dates).map(res => {
+const parseDateWithRegion = dates =>
+    parseStringWithRegion(dates).map(data => {
+        const res = Object.assign({}, data);
         if (upper(res.name) === 'UNRELEASED') {
             res.unreleased = true;
         } else {
@@ -72,7 +74,6 @@ const parseDateWithRegion = dates => {
         delete res.name;
         return res;
     });
-};
 
 const parsePlatform = (line) => {
     const [name, developer, releaseDate, handheld, generation, wikipediaUrl, imageUrl] = line.split(CSV_SEPARATOR);
@@ -90,7 +91,7 @@ const parsePlatform = (line) => {
 const parseSegaSaturnGame = (line) => {
     const [title, developer = '', publisher = '', NA = '', PAL = '', JP = ''] = line.split(CSV_SEPARATOR);
     const dates = `${NA ? `${NA} (NA)` : ''}|${PAL ? `${PAL} (PAL)` : ''}|${JP ? `${JP} (JP)` : ''}`;
-    return {        
+    return {
         title: parseStringWithRegion(title),
         releaseDate: parseDateWithRegion(dates),
         developer: parseStringWithRegion(developer),
@@ -106,7 +107,29 @@ const parseSonyPlayStationGame = (line) => {
         releaseDate: parseDateWithRegion(dates),
         developer: parseStringWithRegion(developer),
         publisher: parseStringWithRegion(publisher),
+    };
+};
+
+const parseSnesGame = (line) => {
+    const [mainTitle, naTitle, euTitle, jpTitle, altTitle, /* region */, genre = '', subgenre = ''] = line.split(CSV_SEPARATOR);
+    const titles = [mainTitle];
+    if (naTitle && naTitle !== mainTitle) {
+        titles.push(naTitle + ' (NA)');
     }
+    if (euTitle && euTitle !== mainTitle) {
+        titles.push(euTitle + ' (EU)');
+    }
+    if (jpTitle && jpTitle !== mainTitle) {
+        titles.push(jpTitle + ' (JP)');
+    }
+    if (altTitle) {
+        titles.push(altTitle);
+    }
+    return {
+        title: parseStringWithRegion(unique(titles).join('|')),
+        genre: genre.split(SEPARATOR).filter(Boolean),
+        subgenre: subgenre.split(SEPARATOR).filter(Boolean),
+    };
 };
 
 const parseFile = (csvPath) => {
@@ -117,15 +140,17 @@ const parseFile = (csvPath) => {
             return lines.map(parseSegaSaturnGame);
         case 'games-sony-playstation.csv':
             return lines.map(parseSonyPlayStationGame);
+        case 'games-snes.csv':
+            return lines.map(parseSnesGame);
         case 'platforms.csv':
             return lines.map(parsePlatform);
-        default: 
+        default:
             console.log('unhandled:'.red, csvFilename);
             return {};
     }
 };
 
-glob("./csv/*.csv", {}, (err, files) => {
+glob('./csv/games-snes.csv', {}, (err, files) => {
     if (err) throw err;
     files.forEach(csvPath => {
         const result = parseFile(csvPath);
