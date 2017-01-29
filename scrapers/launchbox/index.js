@@ -1,19 +1,7 @@
-/* eslint no-console: off */
 const cheerio = require('cheerio');
-const mkdirp = require('mkdirp');
 const fetch = require('isomorphic-fetch');
-const path = require('path');
 require('colors');
 
-const [,, start = 2237, outDir = '/tmp/launchbox'] = process.argv;
-const HELP = 'help,-h,--help,?,-?'.split(',');
-
-if (HELP.includes(process.argv[2])) {
-    console.log(`Usage:\n\t${path.basename(__filename)} [start id] [out dir]`);
-    process.exit();
-}
-
-// const ucFirst = s => s.split(/\s+/).map(s => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase()).join(' ');
 const booleanize = s => ['yes', 'true', true].includes(s.toLowerCase());
 const skipFirst = a => a.slice(1, a.length);
 const last = (a, i) => a.slice(a.length - i, a.length);
@@ -40,6 +28,7 @@ const fetchInfo = id => fetch('http://gamesdb.launchbox-app.com/games/details/' 
             const $values = $('.view', $tds);
             const v1 = $values.eq(0).text().trim() || $('#communityRating', $tds).text().trim();
             const v2 = $values.eq(1).text().trim() || $('#totalVotes', $tds).text().trim();
+            const va = $('a', $values).map((i, v) => $(v).text().trim()).get().filter(Boolean);
             if (!v1) {
                 console.log('not set:'.magenta, field);
                 return;
@@ -60,23 +49,22 @@ const fetchInfo = id => fetch('http://gamesdb.launchbox-app.com/games/details/' 
                     break;
                 case 'developers':
                 case 'publishers':
-                    result[field] = v1.split(/\s*,\s*/).filter(Boolean).map(v => ({name: v}));
+                    result[field] = va.map(v => ({name: v}));
                     break;
                 case 'genres':
-                    result[field] = v1.split(/\s*,\s*/).filter(Boolean);
+                    result.genre = va;
                     break;
                 case 'maxPlayers':
-                    result[field] = +v1;
+                    result.maxPlayers = +v1;
                     break;
                 case 'cooperative':
-                    result[field] = booleanize(v1);
+                    result.cooperative = booleanize(v1);
                     break;
                 case 'rating':
                     result.rating = {value: +v1, votes: +v2};
                     break;
-                case 'wikipedia':
-                    break;
                 case 'videoLink':
+                    result.video = va.map(url => ({url}));
                     break;
                 case 'overview':
                     result.overview = {text: fixText(v1), lang: 'en'};

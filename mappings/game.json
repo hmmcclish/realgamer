@@ -12,6 +12,14 @@
             "subgenre": {"type": "string"},
             "upc": {"type": "string"},
             "platform": {"type": "string"},
+            "maxPlayers": {"type": "integer"},
+            "cooperative": {"type": "boolean"},
+            "rating": {
+                "properties": {
+                    "value": {"type": "float"},
+                    "votes": {"type": "integer"}
+                }
+            },
             "releaseDate": {
                 "properties": {
                     "date": {"type": "date"},
@@ -32,6 +40,11 @@
                     "name": {"type": "string"},
                     "region": {"type": "string"},
                     "comment": {"type": "string"}
+                }
+            },
+            "video": {
+                "properties": {
+                    "url": {"type": "string"}
                 }
             }
         }
