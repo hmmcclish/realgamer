@@ -1,4 +1,5 @@
-DEPLOY_PATH=$HOME/scraper-deploy-`date +%s`/
+#!/usr/bin/env bash
+DEPLOY_PATH=/tmp/heroku-deploy-`date +%s`/
 
 rm -rf $DEPLOY_PATH
 mkdir -p $DEPLOY_PATH

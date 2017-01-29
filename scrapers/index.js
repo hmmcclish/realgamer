@@ -1,4 +1,3 @@
-/* eslint no-console: off */
 const Hapi = require('hapi');
 const launchbox = require('./launchbox');
 

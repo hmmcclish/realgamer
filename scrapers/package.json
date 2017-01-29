@@ -4,7 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "deploy": "bash deploy.sh",
+    "test": "node test/index.js"
   },
   "dependencies": {
     "cheerio": "^0.22.0",
