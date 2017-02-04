@@ -1,8 +1,8 @@
 export const createGame = data => ({
     id: data.id,
-    platform: data.platform,
-    titles: data.titles,
-    developers: data.developers,
-    publishers: data.publishers,
+    platformId: data.platformId,
+    title: data.title,
+    developer: data.developer,
+    publisher: data.publisher,
     year: data.year,
 });
