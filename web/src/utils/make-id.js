@@ -6,4 +6,4 @@
  */
 export default s => s
     .toLowerCase()
-    .replace(/\s+/g, '-\':');
+    .replace(/[^\w]+/g, '-');
