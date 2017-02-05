@@ -1,3 +1,4 @@
+// @flow
 const Hapi = require('hapi');
 const fs = require('fs');
 
