@@ -12,6 +12,7 @@ const skipFirst = arr => Array.from(arr).slice(1, arr.length);
 const removeParens = s => String((s.startsWith('(') && s.endsWith(')')) ? skipFirst(skipLast(s)) : s);
 const makeIsoDate = s => new Date(s).toISOString();
 const unique = arr => Array.from(new Set(arr));
+const str = s => String(s === 0 ? '0' : (s || ''));
 
 const SEPARATOR = /\s*\|\s*/;
 const CSV_SEPARATOR = /\t/;
@@ -137,8 +138,8 @@ const parseSnesGame = (line) => {
     }
     return {
         title: parseStringWithRegion(unique(titles).join('|')),
-        genre: genre.split(SEPARATOR).filter(Boolean),
-        subgenre: subgenre.split(SEPARATOR).filter(Boolean),
+        genre: str(genre).split(SEPARATOR).filter(Boolean),
+        subgenre: str(subgenre).split(SEPARATOR).filter(Boolean),
     };
 };
 
