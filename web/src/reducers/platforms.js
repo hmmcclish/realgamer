@@ -1,3 +1,5 @@
+import makeId from '../utils/make-id';
+
 const INITIAL_STATE = {};
 
 export default (state = INITIAL_STATE, {type, payload}) => {
@@ -5,7 +7,8 @@ export default (state = INITIAL_STATE, {type, payload}) => {
         case 'PLATFORMS_RECEIVE':
             const next = {...state};
             payload.platforms.forEach(p => {
-                next[p.id] = p;
+                const id = makeId(p.title[0].name);
+                next[id] = {id, ...p};
             });
             return next;
         default:

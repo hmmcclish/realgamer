@@ -30,7 +30,7 @@ class Sidebar extends React.Component {
         };
 
         // build platforms tree
-        this.props.platforms.forEach(({id, isHandheld, developer, name}) => {
+        this.props.platforms.forEach(({id, handheld: isHandheld, developer: [{name: developer}], title: [{name}]}) => {
             const type = isHandheld ? 'h' : 'c';
             const cat = categories[type];
             const develId = `${type}-${developer}`;

@@ -16,12 +16,17 @@ const GamesList = ({games, platform}) => (
                 </tr>
             </thead>
             <tbody>
-                {games.map(game => (
-                    <tr key={game.id}>
-                        <td>{game.title}</td>
-                        <td>{game.developer}</td>
-                        <td>{game.publisher}</td>
-                        <td>{game.year}</td>
+                {games.map(({
+                    title: [{name: title} = {name: ''}],
+                    developer: [{name: developer} = {name: ''}],
+                    publisher: [{name: publisher} = {name: ''}],
+                    releaseDate: [{date: year} = {date: ''}],
+                }) => (
+                    <tr key={title}>
+                        <td>{title}</td>
+                        <td>{developer}</td>
+                        <td>{publisher}</td>
+                        <td>{year && year.slice(0, 4)}</td>
                     </tr>
                 ))}
             </tbody>

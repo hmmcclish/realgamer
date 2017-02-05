@@ -2,20 +2,23 @@
   {
     "title": [
       {
-        "name": "3DO Interactive Multiplayer"
+        "name": "3DO Interactive Multiplayer",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Panasonic"
+        "name": "Panasonic",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1993-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 5,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/3DO_Interactive_Multiplayer",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/3DO-FZ1-Console-Set.jpg/800px-3DO-FZ1-Console-Set.jpg"
@@ -23,20 +26,23 @@
   {
     "title": [
       {
-        "name": "Atari 7800"
+        "name": "Atari 7800",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Atari"
+        "name": "Atari",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1986-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 3,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Atari_7800",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Atari-7800-Console-Set.jpg/800px-Atari-7800-Console-Set.jpg"
@@ -44,20 +50,23 @@
   {
     "title": [
       {
-        "name": "Atari Jaguar"
+        "name": "Atari Jaguar",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Atari"
+        "name": "Atari",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1993-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 5,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Atari_Jaguar",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Atari-Jaguar-CD-wPro-Controller.jpg/800px-Atari-Jaguar-CD-wPro-Controller.jpg"
@@ -65,16 +74,19 @@
   {
     "title": [
       {
-        "name": "Atari Lynx"
+        "name": "Atari Lynx",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Atari"
+        "name": "Atari",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1989-01-01T00:00:00.000Z"
       }
     ],
@@ -86,20 +98,23 @@
   {
     "title": [
       {
-        "name": "CD-i"
+        "name": "CD-i",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Philips"
+        "name": "Philips",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1991-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 4,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Philips_CD-i",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Philips-CDi-220-wController-FL.jpg/800px-Philips-CDi-220-wController-FL.jpg"
@@ -107,20 +122,23 @@
   {
     "title": [
       {
-        "name": "Dreamcast"
+        "name": "Dreamcast",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Sega"
+        "name": "Sega",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1998-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 6,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Dreamcast",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dreamcast-Console-Set.jpg/800px-Dreamcast-Console-Set.jpg"
@@ -128,19 +146,23 @@
   {
     "title": [
       {
-        "name": "Game Boy"
+        "name": "Game Boy",
+        "comment": ""
       },
       {
-        "name": "Game Boy Pocket"
+        "name": "Game Boy Pocket",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Nintendo"
+        "name": "Nintendo",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1989-01-01T00:00:00.000Z"
       }
     ],
@@ -152,19 +174,23 @@
   {
     "title": [
       {
-        "name": "Game Boy Advance"
+        "name": "Game Boy Advance",
+        "comment": ""
       },
       {
-        "name": "Game Boy Advance SP"
+        "name": "Game Boy Advance SP",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Nintendo"
+        "name": "Nintendo",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "2001-01-01T00:00:00.000Z"
       }
     ],
@@ -176,16 +202,19 @@
   {
     "title": [
       {
-        "name": "Game Boy Color"
+        "name": "Game Boy Color",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Nintendo"
+        "name": "Nintendo",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1998-01-01T00:00:00.000Z"
       }
     ],
@@ -197,16 +226,19 @@
   {
     "title": [
       {
-        "name": "Game Gear"
+        "name": "Game Gear",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Sega"
+        "name": "Sega",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1990-01-01T00:00:00.000Z"
       }
     ],
@@ -218,20 +250,23 @@
   {
     "title": [
       {
-        "name": "GameCube"
+        "name": "GameCube",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Nintendo"
+        "name": "Nintendo",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "2001-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 6,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/GameCube",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/GameCube-Set.jpg/800px-GameCube-Set.jpg"
@@ -239,16 +274,19 @@
   {
     "title": [
       {
-        "name": "Nomad"
+        "name": "Nomad",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Sega"
+        "name": "Sega",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1995-01-01T00:00:00.000Z"
       }
     ],
@@ -260,27 +298,31 @@
   {
     "title": [
       {
-        "name": "Master System"
+        "name": "Master System",
+        "comment": ""
       },
       {
-        "name": "Master System II"
+        "name": "Master System II",
+        "comment": ""
       },
       {
         "name": "Sega Mark III",
-        "region": "JP"
+        "comment": "J,P"
       }
     ],
     "developer": [
       {
-        "name": "Sega"
+        "name": "Sega",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1985-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 3,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Master_System",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sega-Master-System-Set.jpg/800px-Sega-Master-System-Set.jpg"
@@ -288,24 +330,27 @@
   {
     "title": [
       {
-        "name": "Mega Drive"
+        "name": "Mega Drive",
+        "comment": ""
       },
       {
         "name": "Genesis",
-        "region": "US"
+        "comment": "U,S"
       }
     ],
     "developer": [
       {
-        "name": "Sega"
+        "name": "Sega",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1988-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 4,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Sega_Genesis",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sega-Mega-Drive-JP-Mk1-Console-Set.jpg/800px-Sega-Mega-Drive-JP-Mk1-Console-Set.jpg"
@@ -313,20 +358,23 @@
   {
     "title": [
       {
-        "name": "Neo Geo"
+        "name": "Neo Geo",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "SNK"
+        "name": "SNK",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1990-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 4,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Neo_Geo_(system)",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Neo-Geo-AES-Console-Set.jpg/800px-Neo-Geo-AES-Console-Set.jpg"
@@ -334,20 +382,23 @@
   {
     "title": [
       {
-        "name": "Neo Geo CD"
+        "name": "Neo Geo CD",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "SNK"
+        "name": "SNK",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1994-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 4,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Neo_Geo_CD",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Neo-Geo-CD-TopLoader-wController-FL.jpg/800px-Neo-Geo-CD-TopLoader-wController-FL.jpg"
@@ -355,16 +406,19 @@
   {
     "title": [
       {
-        "name": "Neo Geo Pocket"
+        "name": "Neo Geo Pocket",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "SNK"
+        "name": "SNK",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1998-01-01T00:00:00.000Z"
       }
     ],
@@ -376,16 +430,19 @@
   {
     "title": [
       {
-        "name": "Neo Geo Pocket Color"
+        "name": "Neo Geo Pocket Color",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "SNK"
+        "name": "SNK",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1999-01-01T00:00:00.000Z"
       }
     ],
@@ -397,29 +454,35 @@
   {
     "title": [
       {
-        "name": "NES"
+        "name": "NES",
+        "comment": ""
       },
       {
-        "name": "Nintendo Entertainment System"
+        "name": "Nintendo Entertainment System",
+        "comment": ""
       },
       {
-        "name": "Famicom"
+        "name": "Famicom",
+        "comment": ""
       },
       {
-        "name": "Family Computer"
+        "name": "Family Computer",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Nintendo"
+        "name": "Nintendo",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1983-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 3,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Nintendo_Entertainment_System",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NES-Console-Set.jpg/800px-NES-Console-Set.jpg"
@@ -427,20 +490,23 @@
   {
     "title": [
       {
-        "name": "Nintendo 64"
+        "name": "Nintendo 64",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Nintendo"
+        "name": "Nintendo",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1996-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 5,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Nintendo_64",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/N64-Console-Set.jpg/800px-N64-Console-Set.jpg"
@@ -448,20 +514,23 @@
   {
     "title": [
       {
-        "name": "PlayStation"
+        "name": "PlayStation",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Sony"
+        "name": "Sony",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1994-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 5,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/PlayStation_(console)",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PSX-Console-wController.jpg/800px-PSX-Console-wController.jpg"
@@ -469,20 +538,23 @@
   {
     "title": [
       {
-        "name": "PlayStation 2"
+        "name": "PlayStation 2",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Sony"
+        "name": "Sony",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "2000-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 6,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/PlayStation_2",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PS2-Versions.jpg/677px-PS2-Versions.jpg"
@@ -490,20 +562,23 @@
   {
     "title": [
       {
-        "name": "PlayStation 3"
+        "name": "PlayStation 3",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Sony"
+        "name": "Sony",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "2006-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 7,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/PlayStation_3",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/PS3Versions.png/657px-PS3Versions.png"
@@ -511,20 +586,23 @@
   {
     "title": [
       {
-        "name": "PlayStation 4"
+        "name": "PlayStation 4",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Sony"
+        "name": "Sony",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "2013-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 8,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/PlayStation_4",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PS4-Console-wDS4.jpg/800px-PS4-Console-wDS4.jpg"
@@ -532,19 +610,23 @@
   {
     "title": [
       {
-        "name": "PlayStation Portable"
+        "name": "PlayStation Portable",
+        "comment": ""
       },
       {
-        "name": "PSP"
+        "name": "PSP",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Sony"
+        "name": "Sony",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "2004-01-01T00:00:00.000Z"
       }
     ],
@@ -556,16 +638,19 @@
   {
     "title": [
       {
-        "name": "PlayStation Vita"
+        "name": "PlayStation Vita",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Sony"
+        "name": "Sony",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "2011-01-01T00:00:00.000Z"
       }
     ],
@@ -577,16 +662,19 @@
   {
     "title": [
       {
-        "name": "Pocketstation"
+        "name": "Pocketstation",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Sony"
+        "name": "Sony",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1999-01-01T00:00:00.000Z"
       }
     ],
@@ -598,36 +686,39 @@
   {
     "title": [
       {
-        "name": "32X"
+        "name": "32X",
+        "comment": ""
       },
       {
         "name": "Mega Drive 32X",
-        "region": "PAL"
+        "comment": "P,A,L"
       },
       {
         "name": "Super 32X",
-        "region": "JP"
+        "comment": "J,P"
       },
       {
         "name": "Genesis 32X",
-        "region": "NA"
+        "comment": "N,A"
       },
       {
         "name": "Mega 32X",
-        "region": "BR"
+        "comment": "B,R"
       }
     ],
     "developer": [
       {
-        "name": "Sega"
+        "name": "Sega",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1994-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 4,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/32X",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sega-Genesis-Model2-32X.jpg/754px-Sega-Genesis-Model2-32X.jpg"
@@ -635,24 +726,27 @@
   {
     "title": [
       {
-        "name": "Mega CD"
+        "name": "Mega CD",
+        "comment": ""
       },
       {
         "name": "Sega CD",
-        "region": "NA"
+        "comment": "N,A"
       }
     ],
     "developer": [
       {
-        "name": "Sega"
+        "name": "Sega",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1992-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 4,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Sega_CD",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sega-CD-Model2-Set.jpg/800px-Sega-CD-Model2-Set.jpg"
@@ -660,20 +754,23 @@
   {
     "title": [
       {
-        "name": "Sega Saturn"
+        "name": "Sega Saturn",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Sega"
+        "name": "Sega",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1994-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 5,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Sega_Saturn",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sega-Saturn-Console-Set-Mk1.jpg/800px-Sega-Saturn-Console-Set-Mk1.jpg"
@@ -681,20 +778,23 @@
   {
     "title": [
       {
-        "name": "SG-1000"
+        "name": "SG-1000",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Sega"
+        "name": "Sega",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1983-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 3,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/SG-1000",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sega-SG-1000-Console-Set.jpg/800px-Sega-SG-1000-Console-Set.jpg"
@@ -702,26 +802,31 @@
   {
     "title": [
       {
-        "name": "Super NES"
+        "name": "Super NES",
+        "comment": ""
       },
       {
-        "name": "Super Nintendo Entertainment System"
+        "name": "Super Nintendo Entertainment System",
+        "comment": ""
       },
       {
-        "name": "Super Famicom"
+        "name": "Super Famicom",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Nintendo"
+        "name": "Nintendo",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1990-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 4,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Nintendo-Super-Famicom-Set-FL.jpg/800px-Nintendo-Super-Famicom-Set-FL.jpg"
@@ -729,16 +834,19 @@
   {
     "title": [
       {
-        "name": "TurboExpress"
+        "name": "TurboExpress",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "NEC Home Electronics"
+        "name": "NEC Home Electronics",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1990-01-01T00:00:00.000Z"
       }
     ],
@@ -750,31 +858,31 @@
   {
     "title": [
       {
-        "name": "TurboGrafx-16"
+        "name": "TurboGrafx-16",
+        "comment": ""
       },
       {
         "name": "PC Engine",
-        "region": "JP"
-      },
-      {
-        "name": "PC Engine",
-        "region": "FR"
+        "comment": "J,P,/,F,R"
       }
     ],
     "developer": [
       {
-        "name": "NEC Home Electronics"
+        "name": "NEC Home Electronics",
+        "comment": ""
       },
       {
-        "name": "Hudson Soft"
+        "name": "Hudson Soft",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1987-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 4,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/TurboGrafx-16",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/TurboGrafx16-Console-Set.jpg/800px-TurboGrafx16-Console-Set.jpg"
@@ -782,20 +890,23 @@
   {
     "title": [
       {
-        "name": "Virtual Boy"
+        "name": "Virtual Boy",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Nintendo"
+        "name": "Nintendo",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1995-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 5,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Virtual_Boy",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Virtual-Boy-Set.jpg/472px-Virtual-Boy-Set.jpg"
@@ -803,20 +914,23 @@
   {
     "title": [
       {
-        "name": "Wii"
+        "name": "Wii",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Nintendo"
+        "name": "Nintendo",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "2006-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 7,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Wii",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wii-console.jpg/600px-Wii-console.jpg"
@@ -824,20 +938,23 @@
   {
     "title": [
       {
-        "name": "Wii U"
+        "name": "Wii U",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Nintendo"
+        "name": "Nintendo",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "2012-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 8,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Wii_U",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Wii_U_Console_and_Gamepad.png/800px-Wii_U_Console_and_Gamepad.png"
@@ -845,16 +962,19 @@
   {
     "title": [
       {
-        "name": "WonderSwan"
+        "name": "WonderSwan",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Bandai"
+        "name": "Bandai",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "1999-01-01T00:00:00.000Z"
       }
     ],
@@ -866,16 +986,19 @@
   {
     "title": [
       {
-        "name": "WonderSwan Color"
+        "name": "WonderSwan Color",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Bandai"
+        "name": "Bandai",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "2000-01-01T00:00:00.000Z"
       }
     ],
@@ -887,20 +1010,23 @@
   {
     "title": [
       {
-        "name": "Xbox"
+        "name": "Xbox",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Microsoft"
+        "name": "Microsoft",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "2001-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 6,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Xbox",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Xbox-console.jpg/800px-Xbox-console.jpg"
@@ -908,20 +1034,23 @@
   {
     "title": [
       {
-        "name": "Xbox 360"
+        "name": "Xbox 360",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Microsoft"
+        "name": "Microsoft",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "2005-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 7,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Xbox_360",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Xbox-360-Pro-wController.jpg/401px-Xbox-360-Pro-wController.jpg"
@@ -929,20 +1058,23 @@
   {
     "title": [
       {
-        "name": "Xbox One"
+        "name": "Xbox One",
+        "comment": ""
       }
     ],
     "developer": [
       {
-        "name": "Microsoft"
+        "name": "Microsoft",
+        "comment": ""
       }
     ],
     "releaseDate": [
       {
+        "comment": "",
         "date": "2013-01-01T00:00:00.000Z"
       }
     ],
-    "handheld": true,
+    "handheld": false,
     "generation": 8,
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Xbox_One",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Xbox_One_Console_Set.jpg/800px-Xbox_One_Console_Set.jpg"

@@ -1,3 +1,1 @@
-export const createCompany = data => ({
-    name: data.name,
-});
+export const createCompany = data => data;

@@ -92,7 +92,7 @@ const parsePlatform = (line) => {
         title: parseStringWithRegion(name),
         developer: parseStringWithRegion(developer),
         releaseDate: parseDateWithRegion(releaseDate),
-        handheld: Boolean(handheld),
+        handheld: Boolean(+handheld),
         generation: +generation,
         wikipediaUrl,
         imageUrl,
@@ -161,7 +161,7 @@ const parseFile = (csvPath) => {
     }
 };
 
-glob('./csv/games-snes.csv', {}, (err, files) => {
+glob('./csv/*.csv', {}, (err, files) => {
     if (err) throw err;
     files.forEach(csvPath => {
         const result = parseFile(csvPath);

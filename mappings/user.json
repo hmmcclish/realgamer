@@ -7,7 +7,7 @@
             "country": {"type": "string"},
             "creation": {"type": "date"},
             "lastAccess": {"type": "date"},
-            "sessionId": {"type": "string"},
+            "sessionId": {"type": "string"}
         }
     }
 }
