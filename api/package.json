@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "forever --watch src/index.js",
+    "demon": "forever start -a -l /tmp/realgamer-api.log src/index.js",
     "flow": "flow check",
     "lint": "../node_modules/.bin/eslint ."
   },
