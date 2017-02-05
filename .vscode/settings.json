@@ -1,0 +1,7 @@
+{
+    "javascript.validate.enable": false,
+    "telemetry.enableTelemetry": false,
+    "editor.renderWhitespace": "none",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true
+}

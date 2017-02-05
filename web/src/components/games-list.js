@@ -1,8 +1,9 @@
 import React from 'react';
 import {connect} from 'react-redux';
 import {getGames, getPlatform} from '../reducers/index';
+import {createGame} from '../models/game';
 
-const GamesList = ({games, platform}) => (
+const GamesList = ({games, platform, locale = 'es_ES'}) => (
     <div style={{marginLeft: 350}}>
         <p>{platform.name}</p>
         <img src={platform.image} height="200" alt={platform.name} />
@@ -16,17 +17,12 @@ const GamesList = ({games, platform}) => (
                 </tr>
             </thead>
             <tbody>
-                {games.map(({
-                    title: [{name: title} = {name: ''}],
-                    developer: [{name: developer} = {name: ''}],
-                    publisher: [{name: publisher} = {name: ''}],
-                    releaseDate: [{date: year} = {date: ''}],
-                }) => (
-                    <tr key={title}>
-                        <td>{title}</td>
-                        <td>{developer}</td>
-                        <td>{publisher}</td>
-                        <td>{year && year.slice(0, 4)}</td>
+                {games.map(data => createGame(data, locale)).map(game => (
+                    <tr key={game.getTitle()}>
+                        <td>{game.getTitle()}</td>
+                        <td>{game.getDeveloper()}</td>
+                        <td>{game.getPublisher()}</td>
+                        <td>{game.getYear()}</td>
                     </tr>
                 ))}
             </tbody>
