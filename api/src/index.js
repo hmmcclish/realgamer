@@ -1,6 +1,5 @@
 // @flow
 const Hapi = require('hapi');
-const fs = require('fs');
 
 const server = new Hapi.Server();
 
@@ -25,11 +24,7 @@ server.route({
     method: 'GET',
     path: '/platforms',
     handler: (request, reply) => {
-        const result = fs.readFileSync('../data/csv/platforms.csv').toString().trim().split('\n').slice(1).map((line, id) => {
-            const [name, manufacturer, year, isHandheld, generation, wikipediaUrl, image, logoSvg, logoPng] = line.split('\t');
-            return {id, manufacturer, name, year: +year, generation: +generation, image, isHandheld: !!+isHandheld, wikipediaUrl, logoSvg, logoPng};
-        });
-        reply(result);
+        reply(require('../../data/json/platforms.json'));
     },
 });
 
@@ -37,10 +32,7 @@ server.route({
     method: 'GET',
     path: '/platforms/{id}/games',
     handler: (request, reply) => {
-        const result = fs.readFileSync('../data/csv/games-sega-saturn.csv').toString().trim().split('\n').slice(1).map((line, id) => {
-            const [title, developer, publisher, yearNa, yearPal, yearJap] = line.split('\t');
-            return {id, title, platformId: request.params.id, developer, publisher, year: +yearNa || +yearPal || +yearJap || 0};
-        });
-        reply(result);
+        // for now, all platforms return the same games
+        reply(require('../../data/json/games-sega-saturn.json'));
     },
 });
