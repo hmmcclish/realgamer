@@ -1,16 +1,17 @@
+/* @flow */
 const fs = require('fs');
 const path = require('path');
 const glob = require('glob');
-require('colors');
+const c = require('colors');
 
 const last = arr => arr[arr.length - 1];
-const upper = s => s.toUpperCase();
+const upper = s => String(s).toUpperCase();
 const flatMap = (a, cb) => [].concat(...a.map(cb));
-const skipLast = arr => arr.slice(0, -1);
-const skipFirst = arr => arr.slice(1, arr.length);
-const removeParens = s => (s.startsWith('(') && s.endsWith(')')) ? skipFirst(skipLast(s)) : s;
+const skipLast = arr => Array.from(arr).slice(0, -1);
+const skipFirst = arr => Array.from(arr).slice(1, arr.length);
+const removeParens = s => String((s.startsWith('(') && s.endsWith(')')) ? skipFirst(skipLast(s)) : s);
 const makeIsoDate = s => new Date(s).toISOString();
-const unique = arr => [...new Set(arr)];
+const unique = arr => Array.from(new Set(arr));
 
 const SEPARATOR = /\s*\|\s*/;
 const CSV_SEPARATOR = /\t/;
@@ -36,28 +37,38 @@ const REGIONS = 'AU,EU,JP,FR,PAL,NA,US,BR,KR'.split(',');
  * - Assumes that the last chunk beween parens before the region is a comment
  */
 const parseStringWithRegion = str => flatMap(str.split(SEPARATOR), dirtyTitle => {
-    const title = removeParens(dirtyTitle.trim()).trim();
+    const title = removeParens(String(dirtyTitle).trim()).trim();
     const words = title.split(SPACE);
     if (!title.length) {
         return [];
     }
 
-    const result = {name: title};
+    const result = {name: title, comment: ''};
     const lastWord = upper(removeParens(last(words)));
 
     const regions = lastWord.split('/');
+
+    // check if last word is a region indicator
     if (regions.every(r => REGIONS.includes(r))) {
         const name = skipLast(words).join(' ');
-        const result = {name};
+        result.name = name;
         if (COMMENT.test(name)) {
             result.name = name.replace(COMMENT, '').trim();
-            result.comment = removeParens(name.match(COMMENT)[0]);
+            const matches = name.match(COMMENT);
+            if (Array.isArray(matches) && matches.length) {
+                result.comment = removeParens(matches[0]);
+            }
         }
         return regions.map(region => Object.assign({}, result, {region})).filter(Boolean);
     }
+
+    // check if title has a comment
     if (COMMENT.test(title)) {
         result.name = title.replace(COMMENT, '').trim();
-        result.comment = removeParens(title.match(COMMENT)[0]);
+        const matches = title.match(COMMENT);
+        if (Array.isArray(matches) && matches.length) {
+            result.comment = removeParens(matches[0]);
+        }
     }
     return [result];
 });
@@ -88,29 +99,29 @@ const parsePlatform = (line) => {
 };
 
 const parseSegaSaturnGame = (line) => {
-    const [title, developer = '', publisher = '', NA = '', PAL = '', JP = ''] = line.split(CSV_SEPARATOR);
+    const [title, developer, publisher, NA, PAL, JP] = line.split(CSV_SEPARATOR);
     const dates = `${NA ? `${NA} (NA)` : ''}|${PAL ? `${PAL} (PAL)` : ''}|${JP ? `${JP} (JP)` : ''}`;
     return {
-        title: parseStringWithRegion(title),
+        title: parseStringWithRegion(title || ''),
         releaseDate: parseDateWithRegion(dates),
-        developer: parseStringWithRegion(developer),
-        publisher: parseStringWithRegion(publisher),
+        developer: parseStringWithRegion(developer || ''),
+        publisher: parseStringWithRegion(publisher || ''),
     };
 };
 
 const parseSonyPlayStationGame = (line) => {
-    const [title, developer = '', publisher = '', JP = '', EU = '', NA = ''] = line.split(CSV_SEPARATOR);
+    const [title, developer, publisher, JP, EU, NA] = line.split(CSV_SEPARATOR);
     const dates = `${NA ? `${NA} (NA)` : ''}|${EU ? `${EU} (EU)` : ''}|${JP ? `${JP} (JP)` : ''}`;
     return {
-        title: parseStringWithRegion(title),
+        title: parseStringWithRegion(title || ''),
         releaseDate: parseDateWithRegion(dates),
-        developer: parseStringWithRegion(developer),
-        publisher: parseStringWithRegion(publisher),
+        developer: parseStringWithRegion(developer || ''),
+        publisher: parseStringWithRegion(publisher || ''),
     };
 };
 
 const parseSnesGame = (line) => {
-    const [mainTitle, naTitle, euTitle, jpTitle, altTitle, /* region */, genre = '', subgenre = ''] = line.split(CSV_SEPARATOR);
+    const [mainTitle, naTitle, euTitle, jpTitle, altTitle, /* region */, genre, subgenre] = line.split(CSV_SEPARATOR);
     const titles = [mainTitle];
     if (naTitle && naTitle !== mainTitle) {
         titles.push(naTitle + ' (NA)');
@@ -144,7 +155,7 @@ const parseFile = (csvPath) => {
         case 'platforms.csv':
             return lines.map(parsePlatform);
         default:
-            console.log('unhandled:'.red, csvFilename);
+            console.log(c.red('unhandled:'), csvFilename);
             return {};
     }
 };
@@ -156,7 +167,7 @@ glob('./csv/games-snes.csv', {}, (err, files) => {
         const json = JSON.stringify(result, null, '  ');
         const csvFilename = path.basename(csvPath);
         const jsonPath = path.join(path.dirname(csvPath), '../json', csvFilename.replace(/\.csv$/, '.json'));
-        console.log('write: '.green, jsonPath);
+        console.log(c.green('write: '), jsonPath);
         fs.writeFileSync(jsonPath, json);
     });
 });
