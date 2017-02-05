@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node index.js",
     "deploy": "bash deploy.sh",
-    "test": "node test/index.js"
+    "test": "node test/index.js",
+    "check": "eslint . && flow check"
   },
   "dependencies": {
     "cheerio": "^0.22.0",

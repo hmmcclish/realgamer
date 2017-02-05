@@ -1,3 +1,4 @@
+// @flow
 const Hapi = require('hapi');
 const launchbox = require('./launchbox');
 

@@ -5,7 +5,8 @@
   "repository": {},
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "check": "eslint . && flow check"    
   },
   "dependencies": {
     "colors": "^1.1.2",

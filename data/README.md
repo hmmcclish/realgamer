@@ -2,6 +2,7 @@
 
 ## To start working
 
+1. install flow globally: `yarn global add flow-bin`
 1. run in this dir: `yarn`
 2. run in parent dir: `yarn`
 3. generate all json data files: `yarn start`
