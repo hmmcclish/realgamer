@@ -7,7 +7,8 @@
     "start": "node index.js",
     "deploy": "bash deploy.sh",
     "test": "node test/index.js",
-    "check": "eslint . && flow check"
+    "flow": "flow check",
+    "lint": "../node_modules/.bin/eslint ."
   },
   "dependencies": {
     "cheerio": "^0.22.0",

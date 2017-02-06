@@ -19,6 +19,8 @@ const fetchInfo = id => fetch('http://gamesdb.launchbox-app.com/games/details/' 
         const $ = cheerio.load(html);
         const $trs = $('.table-details > tr');
         const result = {
+            source: 'http://gamesdb.launchbox-app.com',
+            sourceId: id,
             title: [],
             releaseDate: [],
         };
