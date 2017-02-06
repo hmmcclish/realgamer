@@ -11,6 +11,7 @@
         "arrow-parens": "off",
         "no-confusing-arrow": "off",
         "newline-per-chained-call": "off",
+        "no-plusplus": "off",
 
         "import/prefer-default-export": "off",
 
